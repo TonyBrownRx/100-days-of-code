@@ -13,3 +13,15 @@ Spent time today trying to understand Github & Codepen. I tried to the FCC Tribu
 
 ### R1D3
 Added a CSS file to my To-Do List project. Was able to link CSS to HTML file. Used terminal & effectively used git commands (e.g., add, commit, push, & pull). Link to commit: https://github.com/TonyBrownRx/To-Do-List/commits/master
+
+### R1D4
+Played around with creating borders on To-Do list project. Added a button, textarea, & form. Added extensions to VS code to make coding easier. 
+
+### R1D5
+Worked on FFC curriculum all day. Finished CSS and about half of Applied Visual Design.
+
+### R1D6
+Worked on FFC curriculum all day to continue building a foundation.
+
+### R1D7
+
