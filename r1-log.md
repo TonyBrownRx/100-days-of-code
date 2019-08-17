@@ -24,4 +24,4 @@ Worked on FFC curriculum all day. Finished CSS and about half of Applied Visual 
 Worked on FFC curriculum all day to continue building a foundation.
 
 ### R1D7
-
+Made it to the 1st project section of FCC. Started working on my 1st real project. Link to project: https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
