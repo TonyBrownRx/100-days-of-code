@@ -25,3 +25,6 @@ Worked on FFC curriculum all day to continue building a foundation.
 
 ### R1D7
 Made it to the 1st project section of FCC. Started working on my 1st real project. Link to project: https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
+
+### R1D8
+Finished 1st FCC project (Tribute Page). Link to project: https://codepen.io/TonyBrownRx/pen/xxKOORb
