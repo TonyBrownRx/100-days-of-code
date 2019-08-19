@@ -28,3 +28,6 @@ Made it to the 1st project section of FCC. Started working on my 1st real projec
 
 ### R1D8
 Finished 1st FCC project (Tribute Page). Link to project: https://codepen.io/TonyBrownRx/pen/xxKOORb
+
+### R1D9
+Figured out how to work on projects in VS code rather than CodePen. Reviewed my code from last project to see how I could have done better. Will start 2nd project tomorrow.
