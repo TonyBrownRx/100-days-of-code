@@ -31,3 +31,6 @@ Finished 1st FCC project (Tribute Page). Link to project: https://codepen.io/Ton
 
 ### R1D9
 Figured out how to work on projects in VS code rather than CodePen. Reviewed my code from last project to see how I could have done better. Will start 2nd project tomorrow.
+
+### R1D10
+Started working on 2nd FCC project (Survey Form). After hitting road blocks I decided to read Learning Web Design by Jennifer Robbins to build a better foundation & make projects go smoother.
