@@ -34,3 +34,6 @@ Figured out how to work on projects in VS code rather than CodePen. Reviewed my 
 
 ### R1D10
 Started working on 2nd FCC project (Survey Form). After hitting road blocks I decided to read Learning Web Design by Jennifer Robbins to build a better foundation & make projects go smoother.
+
+### R1D11
+Continued reading Learning Web Design by Jennifer Robbins. Worked on a coding exercise. Link to commit: https://github.com/TonyBrownRx/bistro/commits/master
