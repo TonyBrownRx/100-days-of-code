@@ -37,3 +37,6 @@ Started working on 2nd FCC project (Survey Form). After hitting road blocks I de
 
 ### R1D11
 Continued reading Learning Web Design by Jennifer Robbins. Worked on a coding exercise. Link to commit: https://github.com/TonyBrownRx/bistro/commits/master
+
+### R1D12
+Continued reading Learning Web Design by Jennifer Robbins. Worked on a several coding exercises. I'm learning so many basic and advanced concepts.
